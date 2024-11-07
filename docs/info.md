@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+"Input 0 and Input 1 when true turns an LED ON"
 
 ## How to test
 
